@@ -1,0 +1,14 @@
+  try { . "c:\Users\DELL\AppData\Local\Programs\Microsoft VS Code\04c0d99f4f\resources\app\out\vs\workbench\contri...
+  python testing.py                                                                                                  
+  git status                                                                                                         
+  git init                                                                                                           
+  git status                                                                                                         
+  clear                                                                                                              
+  git add testing.py                                                                                                 
+  git status                                                                                                         
+  git commit -m "added testing.py"                                                                                   
+  git status                                                                                                         
+  rm testing.py                                                                                                      
+  clear                                                                                                              
+  git restore testing.py                                                                                             
+  clear                                                                                                              
